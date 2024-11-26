@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+
+# VS Code specific settings
+.vscode/
+
+# macOS-specific files
+.DS_Store
+
+# Linux-specific files
+*.swp
+
+# Log files
+*.log
+
+# Test coverage files
+htmlcov/
+*.cover
+.coverage
+.coverage.*
+.cache
+
+# Static files and build directories
+staticfiles/
+media/
+build/
+dist/
+
+# Database files (if using SQLite)
+*.sqlite3
+db.sqlite3
+
+# Python dependency files
+*.egg
+*.egg-info/
+*.eggs/
+
+# IDE specific files
+.idea/
+*.iml
+
+# Pip environment
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pyre type checker
+.pyre/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Docker
+*.pid
+*.sock
+.env
+
+# Deployment tools
+*.pem
+.terraform/
